@@ -44,10 +44,6 @@ export const KpiCard = ({
         setShowPopup(!showPopup);
     };
 
-    const handleDropdownOption = (option: string) => {
-        console.log(`Option "${option}" selected for ${title}`);
-        setShowPopup(false); 
-    };
 
     return (
         <div
@@ -75,7 +71,7 @@ export const KpiCard = ({
                 <div
                     ref={popupRef}
                     className="absolute top-10 right-5 bg-white p-4 border border-gray-300 rounded-md shadow-md"
-                    style={{ width: "212px", height: "167px" }}
+                    style={{ width: "212px", height: "167px", zIndex: 1000 }}
                 >
                     <div>
                         <p
