@@ -1,8 +1,7 @@
 <div align="center" style="margin: 30px;">
 
 ![Cover Image](https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-09-06-daisy-ui-panel/daisyui.jpg "Cover Image")
-
-
+Your application will be accessible at https://65dedcc61e8e32aff22370ed--leafy-bonbon-a12b66.netlify.app/dashboard
 <br />
 <br />
 
