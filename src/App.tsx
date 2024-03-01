@@ -53,7 +53,7 @@ function App() {
                                 index
                                 element={<Navigate to="/dashboard" />}
                             />
-                            <Route path="/dashboard">
+                            <Route path="/home">
                                 <Route index element={<Dashboard />} />
                             </Route>
                             <Route path="*" element={<ErrorComponent />} />
