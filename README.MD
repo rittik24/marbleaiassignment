@@ -1,7 +1,7 @@
 <div align="center" style="margin: 30px;">
 
 ![Cover Image](src/asets/dash1.png "Cover Image")
-Aapplication will be accessible at https://65dedcc61e8e32aff22370ed--leafy-bonbon-a12b66.netlify.app/dashboard
+Aapplication will be accessible at https://marbleai-9rua5dqcw-rittik24.vercel.app
 <br />
 <br />
 </div>
